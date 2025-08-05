@@ -1,0 +1,21 @@
+[
+  {
+    "hostname": "192.1.1.1",
+    "username": "tedko",
+    "password": "0000",
+    "os": "linux",
+    "db_info": {
+      "type": "postgresql",
+      "user": "postgres",
+      "password": "postgrespassword",
+
+      "database": "yourdatabase"
+    }
+  },
+  {
+    "hostname": "192.1.1.1",
+    "username": "root",
+    "password": "0000,
+    "os": "windows"
+  }
+]

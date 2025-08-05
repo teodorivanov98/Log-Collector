@@ -1,0 +1,23 @@
+[
+  {
+    "name": "LinuxServer01",
+    "hostname": "192.1.1.1",
+    "port": 22,
+    "username": "tedko",
+    "password": "0000",
+    "os": "linux",
+    "virtualization": true
+  },
+  {
+    "name": "LinuxServer02",
+    "hostname": "192.1.1.1",
+    "port": 22,
+    "username": "root",
+    "password": "0000",
+    "os": "linux",
+    "virtualization": false
+  }
+]
+
+
+
